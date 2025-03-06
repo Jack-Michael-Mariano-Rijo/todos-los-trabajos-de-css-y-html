@@ -1,0 +1,119 @@
+
+.h1{
+    border-bottom-style: double;
+    margin: 0 auto;
+    background-color: #1c2f6e;
+    color: #f4f2f2;
+    width: 900px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.body{
+ border: 2px solid #1c2f6e;
+ width: 1000px;
+ margin: 0 auto;
+ background-color: #0b2784;
+
+}
+.border{
+    width: 40%; 
+    height: 20%; 
+    background-color: transparent;
+    border: 3px solid #fa0505; 
+    margin:  0 auto;
+    position: bottom;
+    color: #1c2f6e;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+    background-color: #232631;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  link, a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    width: 163px;
+    border: double;
+  }
+
+  li a:hover {
+    background-color: #f10b0b;
+  }
+  
+.h3{
+  border: 2px solid #19191a;
+  background-color: #111111;
+  font-family: 'Times New Roman', Times, serif;
+  width: 400px;
+  margin: 0 auto;
+  text-align: justify;
+  color: #eaebef;
+}
+.cuadro{
+  display: flex;
+text-align: center;
+width: 300px;
+margin: 0 auto;
+}
+
+body{
+  background-color: ;
+}
+ 
+.th{
+  text-align: justify;
+  color: #eaebef;
+border: 2px solid ;
+background-color: rgb(2, 25, 25);
+}
+
+.th{
+  border: 5px double #fefafa;
+  background-color: #060606;
+  font-family: 'Times New Roman', Times, serif;
+  width: 400px;
+  margin: 0 auto;
+  text-align: justify;
+  color: #f4eded;
+}
+.img {
+  border-radius: 60%;
+height: 250px;
+}
+
+.img2{
+  float: left;
+  clip-path: circle(40%);
+  shape-outside: circle(45%);
+}
+.h2{
+  border-bottom-style: double;
+    margin: 0 auto;
+    background-color: #1a1c25;
+    color: #fdf9f9;
+    width: 500px;
+    text-align: center;
+}
+
+.li2{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  width: 965px;
+  border: 3px double;
+  margin: 0 auto;
+  background-color: #141414;
+  height: 15px;
+}

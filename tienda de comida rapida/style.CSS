@@ -1,0 +1,185 @@
+/*estos son los comandos de los titulos y sub-titulo*/
+.h1{
+    background-color: rgba(207, 136, 136, 0.795);
+    width: 200px;
+    border: 4px double rgb(14, 14, 14);
+}
+
+.hh1{
+  text-align: center;
+  margin: 0 auto;
+}
+
+.h2{
+  text-align: center;
+}
+
+.h3{
+  margin-left: 310px;
+  background-color: rgb(114, 18, 18);
+  color: aliceblue;
+  padding: 15px;
+}
+
+.hh3{
+  margin-left: 410px;
+  background-color: rgb(114, 18, 18);
+  color: aliceblue;
+  padding: 15px;
+}
+
+.h4{
+  text-align: center;
+}
+
+/*estos son los comandos de los parrafos*/
+.p{
+  text-align: center;
+  margin-top: -70px;
+}
+
+
+/*estos son los comandos de la barra de navegacion*/
+ul {
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(114, 18, 18);
+    width: 1518px;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  link, a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    width: 344px;
+  }
+
+  li a:hover {
+    background-color: rgb(101, 18, 13);
+  }
+
+  .li2{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    width: 965px;
+    border: 3px double;
+    margin: 0 auto;
+    background-color: #141414;
+    height: 15px;
+    border: 4px double white;
+  }
+  
+
+/*estos son los comandos de los diferentes div*/
+  .div{
+    text-align: justify;
+    border: 4px double rgb(22, 22, 22);
+    width: 600px;
+    margin: 0 auto;
+    padding: 10px;
+  }
+
+  .div2{
+    width: 1515px;
+    background-color: darkorange;
+  }
+
+  .div4{
+    background-color: #6a0707;
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
+    }
+  
+
+/*estos son los comandos del pie de pagina*/
+.footer {
+  background-color: #6a0707;
+  color: white;
+  padding: 20px;
+}
+
+.nav{
+text-align: right;
+margin-top: -70px;
+}
+
+
+/*estos son los comandos de las imagenes*/
+.img{
+  width: 325px;
+  border-radius: 20%;
+  margin-left: 600px;
+  }
+
+.img2{
+  margin-left: 260px;
+  width: 350px;
+  border-radius: 30px;
+}
+
+.img3{
+  border-radius: 30px;
+  width: 200px;
+}
+
+.img4{
+  margin-left: 150px;
+}
+
+
+/*estos son los comandos del formulario*/
+.label{
+  text-align: center;
+  color: aliceblue;
+}
+
+.input{
+  width: 500px;
+  height: 10px;
+  padding: 14px 20px;
+  border-radius: 30px;
+}
+
+.input2{
+  width: 500px;
+  height: 10px;
+  padding: 20px;
+  border-radius: 30px;
+}
+
+
+/*estos son los comandos de la galeria*/
+.galeria {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 10px;
+  padding: 20px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.galeria img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+/*estos son los comandos de la tabla*/
+.table{
+padding: 10px;
+text-align: center;
+border-radius: 40px;
+}

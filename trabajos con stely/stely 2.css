@@ -1,0 +1,27 @@
+.yo {
+border: 2px solid #3e5e81;
+padding: 20px;
+background-color: #e7f3fe;
+margin-bottom: 20px;
+width: 25%;
+margin: 0 auto;
+}
+.hola {
+    border: 2px solid #3d5b7c;
+    border-radius: 30px;
+    padding: 25px;
+    background-color: #3d5b7c;
+    margin-bottom: 10px;
+    width: 15%;
+    text-align: center;
+    margin: 0 auto;
+}
+.tu {
+    border: 2px solid #923030;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: #f89696;
+    margin-bottom: 10px;
+    width: 25%;
+    margin: 0 auto;
+}

@@ -1,0 +1,16 @@
+body{
+    background-color: beige;
+}
+ 
+h1{
+    margin: 0 auto;
+    border: 2px solid blue;
+    width: 650px;
+    border-radius: 20px;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+li{
+font-family: 'Times New Roman', Times, serif;
+    color: blue;
+}
