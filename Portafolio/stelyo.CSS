@@ -1,6 +1,9 @@
+/*estos son los comandos del cuerpo*/
 body{
-  background-color: rgb(8, 8, 8);
+  background-color: rgb(0, 0, 0);
 }
+
+/*estos son los comandos de los titulos y sub-titulo*/
 .h1{
     color: rgb(255, 250, 250);
     text-align: center;
@@ -46,6 +49,7 @@ color: aliceblue;
   margin-left: 500px;
 }
 
+/*estos son los comandos de la barra de navegacion*/
   ul {
     list-style-type: none;
     padding: 0;
@@ -75,11 +79,12 @@ color: aliceblue;
     background-color: #ac0bf1;
   }
 
+/*estos son los comandos de los div*/
   .div{
-    color: #f9f8fa;
+    color: #f8f6f6;
     text-align: center;
     margin: 0 auto;
-    background-color: rgb(6, 6, 6);
+    background-color: rgb(12, 12, 12);
     width: 700px;
     padding: 10px;
   }
@@ -104,7 +109,7 @@ text-align: right;
 margin-top: -625px;
 margin-right: 550px;
   }
-
+/*estos son los comandos de img*/
   .img{
     border-radius: 60%;
     width: 300px;
@@ -134,7 +139,7 @@ margin-right: 550px;
   text-align: left;
 }
 
-
+/*estos son los comandos del formulario*/
 .label{
   color: #090909;
   padding: 10px;
@@ -142,6 +147,7 @@ margin-right: 550px;
   border-radius: 30px;
 }
 
+/*estos son los comandos del pie de pagina*/
 .footer{
   text-align: center;
   background-color: #000000;
@@ -152,6 +158,8 @@ margin-right: 550px;
   color: rgb(248, 245, 245);
   margin: 0 auto;
 }
+
+/*estos son los comandos de las tablas*/
 
 .table{
   text-align: center;
